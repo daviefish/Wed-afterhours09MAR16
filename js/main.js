@@ -16,3 +16,8 @@ while (index<studentsWhile.length){
 for (var i=0; i<studentsDavid.length; i++) {
   console.log("A very cool student named " + studentsDavid[i] + " is also in my class.")
 }
+
+var greatRappers = ["Andre 3000", "Tupac", "Talib Kweli", "Snoop Dog", "Black Thought"];
+for(var i = 0; i < greatRappers.length; i ++) {
+  console.log(greatRappers[i] + " can really flow!");
+}
